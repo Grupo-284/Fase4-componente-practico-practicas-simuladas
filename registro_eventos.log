@@ -1,0 +1,30 @@
+1. Cliente válido y reserva de sala - Operación exitosa
+2. Cliente con nombre vacío - Error controlado: El nombre del cliente no puede estar vacío.
+3. Cliente con cédula inválida - Error controlado: La cédula debe contener solo números.
+4. Servicio con precio inválido - Error controlado: El precio del servicio debe ser mayor que cero.
+5. Reserva con horas negativas - Error controlado: La duración de la reserva debe ser mayor que cero.
+6. Alquiler de equipo correcto - Operación exitosa
+7. Asesoría especializada correcta - Operación exitosa
+8. Reserva con cliente inválido - Error controlado: El cliente no es válido.
+9. Reserva con servicio inválido - Error controlado: El servicio no es válido.
+10. Reserva cancelada correctamente - Operación exitosa
+1. Cliente válido y reserva de sala - Operación exitosa
+2. Cliente con nombre vacío - Error controlado: El nombre del cliente no puede estar vacío.
+3. Cliente con cédula inválida - Error controlado: La cédula debe contener solo números.
+4. Servicio con precio inválido - Error controlado: El precio del servicio debe ser mayor que cero.
+5. Reserva con horas negativas - Error controlado: La duración de la reserva debe ser mayor que cero.
+6. Alquiler de equipo correcto - Operación exitosa
+7. Asesoría especializada correcta - Operación exitosa
+8. Reserva con cliente inválido - Error controlado: El cliente no es válido.
+9. Reserva con servicio inválido - Error controlado: El servicio no es válido.
+10. Reserva cancelada correctamente - Operación exitosa
+1. Cliente válido y reserva de sala - Operación exitosa
+2. Cliente con nombre vacío - Error controlado: El nombre del cliente no puede estar vacío.
+3. Cliente con cédula inválida - Error controlado: La cédula debe contener solo números.
+4. Servicio con precio inválido - Error controlado: El precio del servicio debe ser mayor que cero.
+5. Reserva con horas negativas - Error controlado: La duración de la reserva debe ser mayor que cero.
+6. Alquiler de equipo correcto - Operación exitosa
+7. Asesoría especializada correcta - Operación exitosa
+8. Reserva con cliente inválido - Error controlado: El cliente no es válido.
+9. Reserva con servicio inválido - Error controlado: El servicio no es válido.
+10. Reserva cancelada correctamente - Operación exitosa
